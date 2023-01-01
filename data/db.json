@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "My first blog post.",
+            "body": "My first blog post, generated using JSON Server."
+        },
+        {
+            "id": 2,
+            "title": "My second blog post.",
+            "body": "My second blog post, generated using JSON Server."
+        },
+        {
+            "id": 3,
+            "title": "My third blog post.",
+            "body": "My third blog post, generated using JSON Server."
+        }
+    ]
+}
